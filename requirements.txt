@@ -1,0 +1,6 @@
+python-chess
+openai
+anthropic
+python-dotenv
+streamlit
+watchdog
